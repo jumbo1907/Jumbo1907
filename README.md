@@ -1,4 +1,13 @@
-### Hi there 👋
+ <p align="center">
+Join my discord server to get in contact with me.
+  </p>
+
+
+<p align="center">
+<a href="https://discord.gg/X9s2Rau">
+  <img align="center" alt="Discord Server" src="https://discordapp.com/api/guilds/430376679022788609/widget.png?style=banner4"/>
+</a>
+  </p>
 
 <!--
 **jumbo1907/Jumbo1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
